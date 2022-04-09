@@ -67,8 +67,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 <p>
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedeldefrawy&show_icons=true&locale=en&layout=compact" alt="most used languages" />
+<img style="width:600px;height:300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedeldefrawy&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 </p>
 <p>&nbsp;
-<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=mohamedeldefrawy&show_icons=true&locale=en" alt="stats" />
+<img style="width:600px;height:300px" src="https://github-readme-stats.vercel.app/api?username=mohamedeldefrawy&show_icons=true&locale=en" alt="stats" />
 </p>
