@@ -3,7 +3,7 @@
 
 <div align=center>
         <img src="./images/Ninja.png" alt="Ninja" height="200">
-    </div>
+</div>
 
 - 🔭 I’m currently studying **Open source application development diploma at Information Technology Institute (ITI)**
 
@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="./images/C#.png" alt="C#" width="40" height="40"/>
+<img src="./images/cSharp.png" alt="C#" width="40" height="40"/>
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -71,6 +71,6 @@
 <img style="width:600px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedeldefrawy&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 </p>
 <p>&nbsp;
-<img style="width: 600px" src="https://github-readme-stats.vercel.app/api?username=mohamedeldefrawy&show_icons=true&locale=en" alt="omarelsherif010" />
+<img style="width: 600px" src="https://github-readme-stats.vercel.app/api?username=mohamedeldefrawy&show_icons=true&locale=en" alt="stats" />
 </p>
 </div>
