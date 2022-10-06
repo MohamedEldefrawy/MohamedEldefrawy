@@ -5,7 +5,7 @@
         <img src="./images/Ninja.png" alt="Ninja" height="200">
 </div>
 
-- 🔭 I’m currently Software Engineer in _VO**IS** (Vodafone Intelligent Solutions).
+- 🔭 I’m currently Software Engineer in Vodafone Intelligent Solutions (_VO**IS**).
 
 - 📫 How to reach me **mohamed.ahmed.aly.d@gmail.com**
 
