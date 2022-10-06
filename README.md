@@ -5,12 +5,12 @@
         <img src="./images/Ninja.png" alt="Ninja" height="200">
 </div>
 
-- 🔭 I’m currently studying **Open source application development diploma at Information Technology Institute (ITI)**
+- 🔭 I’m currently Software Engineer in _VO**IS** (Vodafone Intelligent Solutions).
 
 - 📫 How to reach me **mohamed.ahmed.aly.d@gmail.com**
 
 - 📄 Know about my
-  experiences [Resume](https://drive.google.com/file/d/1xYie-x-o89GQG7I2AWWS-7Ux1CoH54bF/view?usp=sharing)
+  experiences [Resume](https://drive.google.com/file/d/1ShH8mfQOJrceHii1Zlipr2XGtbctTAP5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
